@@ -1,0 +1,6 @@
+#steering = 0.75(max)
+STEERING_GAIN = 0.75
+STEERING_BIAS = -0.15
+#throttle = 0.15
+THROTTLE_GAIN = 0.6
+THROTTLE_BIAS = 0.0
